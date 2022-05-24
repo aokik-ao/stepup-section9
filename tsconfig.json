@@ -3,7 +3,8 @@
         "./src/**/*"
     ],
     "compilerOptions": {
-        // "strict": true,
+        // ルールを厳密にする設定
+        "strict": true,
         "esModuleInterop": true,
         "lib": [
             "dom",
